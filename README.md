@@ -32,6 +32,7 @@ A C-based real-time data monitoring system featuring data caching, filtering, an
 - Make Build Tool
 
 ## Directory Structure 
+<pre>
 project/
 ├── include/ # Header files
 │ ├── cache.h # Cache module header
@@ -44,7 +45,7 @@ project/
 │ └── main.c # Main program
 ├── Makefile # Build configuration
 └── README.md # Documentation
-
+</pre>
 
 ## Build and Run
 

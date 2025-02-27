@@ -32,7 +32,7 @@
 - Make工具
 
 ## 目录结构 
-
+<pre>
 project/
 ├── include/ # 头文件
 │ ├── cache.h # 缓存模块头文件
@@ -45,7 +45,7 @@ project/
 │ └── main.c # 主程序
 ├── Makefile # 编译配置文件
 └── README.md # 说明文档
-
+</pre>
 
 ## 编译和运行
 
